@@ -1,6 +1,6 @@
 # Click Here
 
-https://github.com/cagatayca/card.git
+https://cagatayca.github.io/card
 
 ## Available Scripts
 
